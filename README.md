@@ -5,7 +5,6 @@ Tritium is a simple RESTful web service built using the Play Framework (Scala).
 | Software                | Version |
 | ----------------------- |:-------:|
 | Simple Build Tool (sbt) | v1.1.1+ |
-|                         |         |
 | Java                    | v1.8    |
 
 #### How to test
